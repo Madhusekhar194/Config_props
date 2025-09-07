@@ -1,4 +1,2 @@
 message: "Hello from GitHub Config Repo!"
-app:
-  name: Greet Service
-  
+
